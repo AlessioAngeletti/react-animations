@@ -1,4 +1,4 @@
-# Expense-Tracker
+# React Animations
 
 Developed with React, following the Udemy course:
 
